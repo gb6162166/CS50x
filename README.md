@@ -1,1 +1,1 @@
-CS50x Assignments Submit
+CS50x Assignment Submissions
